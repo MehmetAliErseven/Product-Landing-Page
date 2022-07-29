@@ -108,7 +108,7 @@ input{
 }
 
 #submit:hover {
-  background-color: E6613A;
+  background-color: #E6613A;
   transition: background-color 1s ease;
 }
 
@@ -164,7 +164,7 @@ cursor: pointer;
 }
 
 .button:hover {
-  background-color: E6613A;
+  background-color: #E6613A;
   transition: background-color 1s ease;
 }
 
